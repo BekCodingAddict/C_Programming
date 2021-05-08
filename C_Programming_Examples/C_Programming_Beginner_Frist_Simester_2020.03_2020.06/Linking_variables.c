@@ -1,0 +1,1 @@
+extern int func1(int num) { return num + 10; }
